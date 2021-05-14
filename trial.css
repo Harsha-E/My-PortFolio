@@ -493,8 +493,8 @@ a:hover {
   top: 10px;
   width: 30px;
   height: 30px;
-  background-image: url(../img/ico-sound-off.svg);
-  background: url(../img/ico-sound-on.svg) left center no-repeat;
+  background-image: url(ico-sound-off.svg);
+  background: url(ico-sound-on.svg) left center no-repeat;
   background-size: auto 20px;
   opacity: 0;
   visibility: hidden;
@@ -521,7 +521,7 @@ a:hover {
 }
 
 .sound-btn.sound-btn-off {
-  background-image: url(../img/ico-sound-off.svg)
+  background-image: url(ico-sound-off.svg)
 }
 
 .noise-bg {
@@ -530,7 +530,7 @@ a:hover {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url(../img/noise.svg) center center repeat;
+  background: url(noise.svg) center center repeat;
   z-index: 1000;
   opacity: .8;
   pointer-events: none
@@ -1179,7 +1179,7 @@ screen and (max-height:300px) {
 }
 
 .house-back i {
-  background-image: url(../img/house-back.svg)
+  background-image: url(house-back.svg)
 }
 
 @media screen and (max-width:750px) {
@@ -1201,7 +1201,7 @@ screen and (max-height:300px) {
 }
 
 .house-left i {
-  background-image: url(../img/house-dark-left.svg)
+  background-image: url(house-dark-left.svg)
 }
 
 .house-right {
@@ -1210,7 +1210,7 @@ screen and (max-height:300px) {
 }
 
 .house-right i {
-  background-image: url(../img/house-dark-right.svg)
+  background-image: url(house-dark-right.svg)
 }
 
 .house-head {
@@ -1222,7 +1222,7 @@ screen and (max-height:300px) {
 }
 
 .house-head i {
-  background-image: url(../img/house-type-0.svg)
+  background-image: url(house-type-0.svg)
 }
 
 @media screen and (max-width:750px) {
@@ -1234,7 +1234,7 @@ screen and (max-height:300px) {
 
 .house-tower-left-2 i,
 .house-tower-right-1 i {
-  background-image: url(../img/house-type-2.svg)
+  background-image: url(img/house-type-2.svg)
 }
 
 .house-tower-right-1 {
@@ -1266,7 +1266,7 @@ screen and (max-height:300px) {
 .house-square-left-2 i,
 .house-square-left-3 i,
 .house-square-right-1 i {
-  background-image: url(../img/house-type-1.svg)
+  background-image: url(house-type-1.svg)
 }
 
 .house-square-left-1 {
@@ -1311,7 +1311,7 @@ screen and (max-height:300px) {
 .house-rectangle-left-1 i,
 .house-rectangle-right-1 i,
 .house-rectangle-right-2 i {
-  background-image: url(../img/house-type-3.svg)
+  background-image: url(house-type-3.svg)
 }
 
 .house-rectangle-left-1 {
@@ -1351,7 +1351,7 @@ screen and (max-height:300px) {
 .house-smallsquare-left-2 i,
 .house-smallsquare-left-3 i,
 .house-smallsquare-right-1 i {
-  background-image: url(../img/house-type-4.svg)
+  background-image: url(house-type-4.svg)
 }
 
 .house-smallsquare-left-2 {
@@ -1540,7 +1540,7 @@ article {
 .section-coder {
   position: relative;
   width: 100%;
-  background: url(../img/article-bg.jpg) center 0 no-repeat #020716;
+  background: url(article-bg.jpg) center 0 no-repeat #020716;
   background-size: cover;
   z-index: 10
 }
@@ -2049,43 +2049,43 @@ article {
 .work-item-chcigril .img-1,
 .work-item-chcigril .img-2,
 .work-item-chcigril .img-3 {
-  background-image: url(../img/works-chcigril.jpg)
+  background-image: url(works-chcigril.jpg)
 }
 
 .work-item-automobilist .img-1,
 .work-item-automobilist .img-2,
 .work-item-automobilist .img-3 {
-  background-image: url(../img/works-automobilist.jpg)
+  background-image: url(works-automobilist.jpg)
 }
 
 .work-item-kylo-ren .img-1,
 .work-item-kylo-ren .img-2,
 .work-item-kylo-ren .img-3 {
-  background-image: url(../img/works-kylo-ren.jpg)
+  background-image: url(works-kylo-ren.jpg)
 }
 
 .work-item-keboola .img-1,
 .work-item-keboola .img-2,
 .work-item-keboola .img-3 {
-  background-image: url(../img/works-keboola.jpg)
+  background-image: url(works-keboola.jpg)
 }
 
 .work-item-nintendo .img-1,
 .work-item-nintendo .img-2,
 .work-item-nintendo .img-3 {
-  background-image: url(../img/works-nintendo.jpg)
+  background-image: url(works-nintendo.jpg)
 }
 
 .work-item-karasek .img-1,
 .work-item-karasek .img-2,
 .work-item-karasek .img-3 {
-  background-image: url(../img/works-karasek.jpg)
+  background-image: url(works-karasek.jpg)
 }
 
 .work-item-cogvio .img-1,
 .work-item-cogvio .img-2,
 .work-item-cogvio .img-3 {
-  background-image: url(../img/works-cogvio.jpg)
+  background-image: url(works-cogvio.jpg)
 }
 
 @-webkit-keyframes glitch-work {

@@ -670,7 +670,7 @@ header h1 span {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/logo.svg);
+  background-image: url(logo.svg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -1234,7 +1234,7 @@ screen and (max-height:300px) {
 
 .house-tower-left-2 i,
 .house-tower-right-1 i {
-  background-image: url(img/house-type-2.svg)
+  background-image: url(house-type-2.svg)
 }
 
 .house-tower-right-1 {
@@ -2290,23 +2290,23 @@ article {
 }
 
 .social-list .tw:before {
-  background-image: url(../img/social-ico-tw.svg)
+  background-image: url(social-ico-tw.svg)
 }
 
 .social-list .fb:before {
-  background-image: url(../img/social-ico-fb.svg)
+  background-image: url(social-ico-fb.svg)
 }
 
 .social-list .code:before {
-  background-image: url(../img/social-ico-codepen.svg)
+  background-image: url(social-ico-codepen.svg)
 }
 
 .social-list .twitch:before {
-  background-image: url(../img/social-ico-twitch.svg)
+  background-image: url(social-ico-twitch.svg)
 }
 
 .social-list .linked:before {
-  background-image: url(../img/social-ico-linked.svg)
+  background-image: url(social-ico-linked.svg)
 }
 
 .social-list .item-email {
@@ -2545,7 +2545,7 @@ article {
 footer {
   position: relative;
   padding: 150px 0 250px 0;
-  background: url(../img/footer-bg.svg) center 0 no-repeat;
+  background: url(footer-bg.svg) center 0 no-repeat;
   background-size: cover;
   z-index: 10
 }
@@ -2568,7 +2568,7 @@ footer i {
   margin: 0 4px;
   width: 16px;
   height: 15px;
-  background: url(../img/l.svg) center center no-repeat;
+  background: url(l.svg) center center no-repeat;
   vertical-align: middle
 }
 

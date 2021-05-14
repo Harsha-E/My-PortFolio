@@ -530,7 +530,7 @@ a:hover {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url(noise.svg) center center repeat;
+  background: url(noise.png) center center repeat;
   z-index: 1000;
   opacity: .8;
   pointer-events: none
@@ -670,7 +670,7 @@ header h1 span {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url(logo.svg);
+  background-image: url(logo2.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -2298,15 +2298,11 @@ article {
 }
 
 .social-list .code:before {
-  background-image: url(social-ico-codepen.svg)
-}
-
-.social-list .twitch:before {
-  background-image: url(social-ico-twitch.svg)
+  background-image: url(social-ico-wa.png)
 }
 
 .social-list .linked:before {
-  background-image: url(social-ico-linked.svg)
+  background-image: url(social-ico-insta.png)
 }
 
 .social-list .item-email {
@@ -2545,7 +2541,7 @@ article {
 footer {
   position: relative;
   padding: 150px 0 250px 0;
-  background: url(footer-bg.svg) center 0 no-repeat;
+  background: url(footer-bg.png) center 0 no-repeat;
   background-size: cover;
   z-index: 10
 }
